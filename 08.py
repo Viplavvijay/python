@@ -1,0 +1,6 @@
+a=int(input("enter the no a:"))
+b=int(input("enter the no b:"))
+print(f'sum of the nos:\n{ab}')
+print(f'sub of the nos:\n{a-b}')
+print(f'multiplication of the nos:\n{a*b}')
+print(f'div of the nos:\n{a/b}')
